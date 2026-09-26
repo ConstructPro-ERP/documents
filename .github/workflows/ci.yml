@@ -8,4 +8,4 @@ on:
 
 jobs:
   documents-ci:
-    uses: ConstructPro-ERP/infra/.github/workflows/documents-ci.yml@develop
+    uses: ConstructPro-ERP/infra/.github/workflows/documents-ci.yml@v1
