@@ -1,0 +1,10 @@
+name: Documents CI
+
+on:
+  pull_request:
+    branches: [develop, main]
+  push:
+
+jobs:
+  documents-ci:
+    uses: ConstructPro-ERP/infra/.github/workflows/documents-ci.yml@v1

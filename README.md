@@ -1,5 +1,10 @@
 # ConstructPro ERP - Documents
 
+[![CI](https://github.com/ConstructPro-ERP/documents/actions/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/ConstructPro-ERP/documents/actions/workflows/ci.yml)
+
+**Live application:** https://construct-pro-teal.vercel.app/  
+**API documentation (Swagger):** https://construct-pro-api-gateway.vercel.app/api/docs
+
 ## Project Description
 
 This repository contains the project documentation for the **ConstructPro ERP** system, including the Software Requirements Specification (SRS), Software Design Specification (SDS), Architectural Decision Records (ADRs), and meeting notes.
